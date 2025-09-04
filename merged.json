@@ -18631,7 +18631,7 @@
     },
     {
       "key": "[btn/ tg='1'  l='x'  g='1'  cond='f.got_dress1.onepiece!=1'  gr='onepiece'  exp='f.got_dress1.onepiece=1, f.temp.bought='花柄のワンピース', f.temp.item_scale=11' ]",
-      "en-US": "[btn/ tg='1'  l='x'  g='1'  cond='f.got_dress1.onepiece!=1'  gr='onepiece'  exp=\"f.got_dress1.onepiece=1, f.temp.bought='花柄のワンピース', f.temp.bought='ชุดเดรสลายดอกไม้', f.temp.item_scale=11\" ]"
+      "en-US": "[btn/ tg='1'  l='x'  g='1'  cond='f.got_dress1.onepiece!=1'  gr='onepiece'  exp=\"f.got_dress1.onepiece=1, f.temp.bought='花柄のワンピース', f.temp.bought_name='ชุดเดรสลายดอกไม้', f.temp.item_scale=11\" ]"
     },
     {
       "key": "[btn/ tg='1'  l='x'  g='1'  cond='f.got_dress1.peacock!=1'  gr='peacock'  exp='f.got_dress1.peacock=1, f.temp.bought='ロングワンピース', f.temp.item_scale=18' ]",
